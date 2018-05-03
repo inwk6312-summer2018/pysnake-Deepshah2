@@ -1,0 +1,6 @@
+For snake game we need 
+1 create blank space play area
+2 need to make turtle object for snake 
+3 make food search area and border eliminate from game
+4 score card area
+5 continously check user input and and hit perticular are
